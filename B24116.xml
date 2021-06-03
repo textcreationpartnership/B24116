@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hertf. ss. At the general quarter-sessions of the publick peace holden for the county of Hertford, on the fourteenth and sixteenth dayes of July, in the year of our Lord, one thousand six hundred fifty and six. It is ordered by this court, that whatsoever officer shall, according to law, apprehend any rogues or vagabonds ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24116</idno><idno type="EEBO-CITATION">99888903</idno>
+  <idno type="VID">193907</idno>
+  <idno type="EEBO-PROQUEST">2240902076</idno>
+  
+            <idno type="STC">Wing H1602A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[105]</idno>
+            <idno type="STC">ESTC R232492</idno>
+            <idno type="PROQUEST">ocm99888903</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888903e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24116)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193907)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[105])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hertf. ss. At the general quarter-sessions of the publick peace holden for the county of Hertford, on the fourteenth and sixteenth dayes of July, in the year of our Lord, one thousand six hundred fifty and six. It is ordered by this court, that whatsoever officer shall, according to law, apprehend any rogues or vagabonds ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1656].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Other title information from first line of text.</note>
+                  <note>Initial.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Justice, Administration of --  England --  Hertford --  Early works to 1800.</term>
+               <term type="topical_term">Rogues and vagabonds --  England --  Hertford --  Early works to 1800.</term>
+               <term type="geographic_name">Hertford (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:193907:1"/>
+            <head>At the General Quarter-Sessions of the Publick Peace holden for the County of <hi>Hertford,</hi> on the Fourteenth and Sixteenth dayes of <hi>July,</hi> in the year of our Lord, One thousand six hundred fifty and six.</head>
+            <opener>
+               <dateline>Herts. ss.</dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is Ordered by this Court, That whatsoever Officer shall, according to Law, apprehend any Rogues or Vagabonds, and deliver him, her or them to the Officer of the next Parish, to be conveyed to the place of his, her, or their birth or abode (as the case shall require) shall have two shillings paid unto him for every such Rogue or Vagabond, by such Officer to whom they shall be so delivered: And that every such Officer so paying the said two shillings, shall receive the like sum of two shillings, of and from the next Officer to whom the said Rogue or Vagabond shall be so delivered; and so from Officer to Officer, unto the last Officer of the place of the Confines of this County, such payment of two shillings shall be paid, upon the conveying and delivering over of every such Rogue or Vagabond. To which last Officer shall be allowed his disbursments therein, from the High-Constable of that Hundred or Division (or by Order of the next Sessions, at the determination of the time wherein he shall so serve in the said Office; He the said Constable or Officer producing unto the next Justice of the Peace, a Receipt under the hand of such Officer to whom he paid the same, upon delivery of such Rogues and Va<g ref="char:EOLhyphen"/>gabonds; The said Receipt being allowed under the hand of the said Justice.) And in case any other person, not being an Officer, shall apprehend any Rogues or Vagrants, and bring him, her, or them to the Constable or Officer of the place where they were so apprehended, to be punished, and conveyed away; Such Constable and other Officer shall in like manner pay unto such persons the sum of two shil<g ref="char:EOLhyphen"/>lings, for every such Rogue or Vagabond. And every such Constable or Officer, upon the performance of his duty in the correction and conveyance of such Rogues or Vagrants as aforesaid, shall be in like manner re-imbursed by the next Constables to whom the same shall be so conveyed: And that the last Constable or Officer upon the Confines of this County, shall be re-imbursed by the High-Constables of that Hundred or Division as aforesaid; and they the said High-Constables to be re-imbursed by Order of this Court. And it is by this Court declared, That a man, his wife and children, being taken begging together, are, and shall be accompted, deemed and taken, but as and for one Rogue: And that such Officer or person aforesaid, shall receive for them onely one two shillings: And it is intended, That such two shillings shall be paid unto any Officer or other person, for Rogues being taken begging within the said County wherein is their place of abode, if he shall carry them before some Justice of the Peace son the County; and after their conviction, shall carry them to the house of Correction, or otherwise to dispose of them, by order of some Justice or Justices. And in case any of the Officers aforesaid shall refuse or neglect to do their duties in this behalf; Then on complaint thereof to be made by such person or Officer who shall be grieved thereby, unto any Justice of the Peace of this County, the said Justice of Peace is desired to binde such persons in a Recognizance, to appear at the next General-Sessions of the Publick Peace to be holden for this County; that such Officer so refusing or neglecting his duty, may be there proceeded against according to Law for his contempt therein. And it is further Ordered by this Court, That a convenient number of Copies of this Order be forthwith Printed; and that the Copies shall be soon afterwards sent to the Justices of the Publick Peace of each several Division of this County, by the Clerk of the Peace of the said County. And the said Justices are desired to call together the Con<g ref="char:EOLhyphen"/>stables, Headboroughs, and Churchwardens of the several Parishes within their respective Divisions, and to acquaint them with this Or<g ref="char:EOLhyphen"/>der, and to give the same in charge unto them for their observance thereof in all things accordingly. And to the end all Officers, Mini<g ref="char:EOLhyphen"/>sters, and others, who are herein concerned, may the better understand their duties, and know the penalties that they shall incurre for their negligences therein, It is thought fit, That the said Justices of the Peace within their said Divisions, shall disperse abroad amongst the Con<g ref="char:EOLhyphen"/>stables and Head boroughs, a Paper signifying what persons are by the Laws and Statutes adjudged Rogues; with the Penalties imposed upon each of the said Officers, for his neglect in the not performance of their duties, that they may not pretend ignorance thereof, when they come to be punished for the same. And all Ministers of this County, are hereby desired to reade this Order in their several Parishes, Churches or Chappels, upon the next Lords-day after the receipt thereof, before the Morning-Sermon, that so it may be the more effectually executed. And that it may be understood what persons are and shall be deemed Rogues; Therefore this Court declareth, That the per<g ref="char:EOLhyphen"/>sons here-under mentioned (being above the age of seven years) are adjudged Rogues by the Laws of this Nation; That is to say,</p>
+            <p>All persons calling themselves Scholars, going about begging; All Seafaring-men, pretending losses of their ships or goods on the Sea, going about the Country begging, having no Testimonials under the hand or hands of any Justice or Justices of the Peace, limiting the time for his journey expiring; All idle persons going about the Country, begging, or using any subtile craft, or unlawful Games, Playes, or feigning themselves to have knowledge in Phisiognomy, Palmestry, or other like crafty Sciences, pretending that they can tell Desti<g ref="char:EOLhyphen"/>nies, Fortunes, or such other phantastical Imaginations; All persons that be, or utter themselves to be Proctors, Procurors, Patent-ga<g ref="char:EOLhyphen"/>therers, or Collectors for Gaols, Prisons, or Hospitals; All Fencers, Bear-wards, common Players of Interludes, and Minstrels, wandring abroad; All Juglers, Tinkers, Pedlers, Petty Chapmen, wandring abroad, and Ballad-singers; All wandring persons and Common La<g ref="char:EOLhyphen"/>bourers, being persons able in body, using loytering, and refusing to work for such reasonable wages as is taxed, or commonly given in such parts, where such persons do or shall happen to dwell or abide, not having living otherwise to maintain themselves; All persons delivered out of Gaols, that beg for their Fees, or otherwise do travel begging, pretending losses by fire, or otherwise; All persons, not being Fe<g ref="char:EOLhyphen"/>lons, pretending themselves to be Egyptians, or wandring in the form, habit or attire of Counterfeit-Egyptians; And all such persons as wander up and down in the Country to sell Glasses, Are all and every of them adjudged, deemed and taken as Rogues and Vagabonds. And also all such other persons as are by the Laws of this Commonwealth declared to be Rogues.</p>
+            <list>
+               <head>The Penalties by Law to be imposed upon such persons as shall neglect their duties in apprehending and passing of Rogues.</head>
+               <item>1. That the Minister of the place where a Rogue is passed, shall Register the Testimonial, signifying the day and place of his punishment, in a Book to be kept for that purpose; upon pain of forfeiture of five shillings for every default.</item>
+               <item>2. That if a Constable or Headborough be negligent in his duty herein, in apprehending and punishing of Rogues, he forfeits every default twenty shillings; and if he doth not convey them to the place of their birth or dwelling, as the case doth require, he forfeits five pounds.</item>
+               <item>3. That if any man rescue or hinder the execution of the Law herein made, he doth forfeit five pounds, and is to be bound to his Good Behaviour.</item>
+               <item>4. That every person that seeth or knoweth a Rogue to beg, and doth not convey him, or cause him to be conveyed to the next Consta<g ref="char:EOLhyphen"/>ble or Headborough, doth for every such default forfeit ten shillings.</item>
+               <item>5. That the Constables and Headboroughs having Warrants directed to them, for privy searches for Rogues, and neglecting to give an accompt in writing upon Oath, and under the hand of the Minister of the Parish (to the Justices of Peace at their next meeting, of such Rogues as they have passed and conveyed since the last meeting of the said Justices) is to incurre what Fine the said Justices shall be pleased to set upon them, not exceeding fourty shillings.</item>
+            </list>
+            <closer>
+               <signed>By the Court.</signed> Examined by <hi>Edw. Hide,</hi> Clerk of the Peace.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
